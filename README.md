@@ -129,16 +129,16 @@ aztec-wallet simulate balance_of_public \
 
 
 Summary
-Step	      Task
-1.	    Install Aztec CLI
-2.	    Set testnet variables
-3.	    Start the testnet version
-4.	    Create and register wallet
-5.	    Deploy account
-6.	    Deploy token contract
-7.	    Mint tokens
-8.	    Transfer to public
-9.	    Check balances
+Step	  Task
+1.	Install Aztec CLI
+2.	Set testnet variables
+3.	Start the testnet version
+4.	Create and register wallet
+5.	Deploy account
+6.	Deploy token contract
+7.	Mint tokens
+8.	Transfer to public
+9.	Check balances
 
 
 
