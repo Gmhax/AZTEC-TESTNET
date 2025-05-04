@@ -24,15 +24,15 @@ echo 'export PATH="$HOME/.aztec/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-## Step 3.Setup Environment Variables
+## Step 3.Start the Aztec Testnet
+```bash
+aztec-up alpha-testnet
+```
+
+## Step 4.Setup Environment Variables
 ```bash
 export NODE_URL=http://34.107.66.170
 export SPONSORED_FPC_ADDRESS=0x0b27e30667202907fc700d50e9bc816be42f8141fae8b9f2281873dbdb9fc2e5
-```
-
-## Step 4.Start the Aztec Testnet
-```bash
-aztec-up alpha-testnet
 ```
 
 - Create a working directory directly under /home/codespace:
