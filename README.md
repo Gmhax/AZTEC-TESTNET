@@ -1,6 +1,6 @@
 # AZTEC-TESTNET CLI - GUIDE
 This guide will walk you through setting up and using the Aztec testnet. By the end, you'll have created an account, deployed a contract, and performed some basic operations.
-
+(details)https://docs.aztec.network/developers/guides/getting_started_on_testnet
 ## Key Terms
 - In this guide you will see these terms:
 - aztec: a command-line tool for interacting with aztec testnet (& sandbox local environments)
