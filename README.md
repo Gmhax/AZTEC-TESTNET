@@ -94,7 +94,7 @@ aztec-wallet send mint_to_private \
     --contract-address last \
     --args accounts:my-wallet accounts:my-wallet 10
 ```
-If you encounter an error like the one shown in the photo below, it's fine your wallet  is still syncing (PXE DATA is Congested). Just run the command again until it succeeds. 
+If you encounter an error like the one shown in the photo below, it's fine your wallet  is still syncing (Congested). Just run the command again until it succeeds. 
 ![image](https://github.com/user-attachments/assets/b1dd0c2b-2c42-43a6-b9e7-854f93b31d5d)
 
 ## Step 8.Transfer to Public Balance
