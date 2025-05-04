@@ -14,7 +14,14 @@ This guide will walk you through setting up and using the Aztec testnet. By the 
 ## STEP-BY-STEP AZTEC TESTNET SETUP IN GITHUB CODESPACE
 - https://github.com/codespaces
 
-## Step 1.Install Aztec CLI
+
+## Step 1.Create Directory / Install Aztec CLI
+- Create a working directory directly under /home/codespace:
+```bash
+mkdir -p /home/codespace/aztec-test
+cd /home/codespace/aztec-test
+```
+
 ```bash
 bash -i <(curl -s https://install.aztec.network)
 ```
@@ -35,11 +42,6 @@ export NODE_URL=http://34.107.66.170
 export SPONSORED_FPC_ADDRESS=0x0b27e30667202907fc700d50e9bc816be42f8141fae8b9f2281873dbdb9fc2e5
 ```
 
-- Create a working directory directly under /home/codespace:
-```bash
-mkdir -p /home/codespace/aztec-test
-cd /home/codespace/aztec-test
-```
 
 ## Step 5.Create & Register Account
 - Create wallet: Save the details on notepad
