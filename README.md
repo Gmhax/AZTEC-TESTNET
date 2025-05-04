@@ -1,9 +1,8 @@
 # AZTEC-TESTNET CLI - GUIDE
 This guide will walk you through setting up and using the Aztec testnet. By the end, you'll have created an account, deployed a contract, and performed some basic operations.
 
-##Key Terms
+## Key Terms
 - In this guide you will see these terms:
-
 - aztec: a command-line tool for interacting with aztec testnet (& sandbox local environments)
 - aztec-nargo: a command-line tool for compiling contracts
 - aztec.nr: a Noir library used for writing Aztec smart contracts
